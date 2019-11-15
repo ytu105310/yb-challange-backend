@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9574a0e-3eed-424e-a0cc-8f9153fb60dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Database/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="yb-challange-backend" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Database/database.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="47" column="15" selection-start-line="47" selection-end-line="48" />
+              <folding>
+                <element signature="e#64#130#0" />
+                <element signature="e#176#192#0" />
+                <element signature="n#!!block;n#createDatabase#0" />
+                <element signature="e#1035#1128#0" />
+                <element signature="e#1194#1239#0" />
+                <element signature="e#1400#1424#0" />
+                <element signature="e#1447#1471#0" />
+                <element signature="e#2453#2589#0" />
+                <element signature="e#2472#2524#0" />
+                <element signature="e#2530#2583#0" />
+                <element signature="e#2774#2910#0" />
+                <element signature="e#2793#2845#0" />
+                <element signature="e#2851#2904#0" />
+                <element signature="n#!!block;n#f#0" />
+                <element signature="e#2834#2974#0" />
+                <element signature="e#2853#2905#0" />
+                <element signature="e#2911#2968#0" />
+                <element signature="e#3041#3181#0" />
+                <element signature="e#3060#3112#0" />
+                <element signature="e#3118#3175#0" />
+                <element signature="n#!!block;n#insertUsers#0" />
+                <element signature="e#3109#3249#0" />
+                <element signature="e#3128#3180#0" />
+                <element signature="e#3186#3243#0" />
+                <element signature="n#!!block;n#selectUsers#0" />
+                <element signature="e#3617#3742#0" />
+                <element signature="e#3113#3137#0" />
+                <element signature="e#3168#3192#0" />
+                <element signature="n#!!block;n#dropDb#1" />
+                <element signature="e#3973#4094#0" />
+                <element signature="e#3992#4033#0" />
+                <element signature="e#4039#4088#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createTables</find>
+      <find>inser</find>
+      <find>points</find>
+      <find>G</find>
+      <find>insert</find>
+      <find>IF</find>
+      <find>IF NOT</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Database/databse.js" />
+        <option value="$PROJECT_DIR$/Database/database.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/yb-challange-backend.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yb-challange-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yb-challange-backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yb-challange-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yb-challange-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Database" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9574a0e-3eed-424e-a0cc-8f9153fb60dc" name="Default Changelist" comment="" />
+      <created>1573819367531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573819367531</updated>
+      <workItem from="1573819370436" duration="4017000" />
+      <workItem from="1573824410980" duration="11225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15242000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24892704" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32980973" />
+      <window_info active="true" id="Terminal" order="4" side_tool="true" visible="true" weight="0.38054967" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936507" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Database/databse.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17950" column="12" selection-start-line="17950" selection-start-column="12" selection-end-line="17950" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/Protocol.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="39" column="2" lean-forward="true" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="47" column="15" selection-start-line="47" selection-end-line="48" />
+          <folding>
+            <element signature="e#64#130#0" />
+            <element signature="e#176#192#0" />
+            <element signature="n#!!block;n#createDatabase#0" />
+            <element signature="e#1035#1128#0" />
+            <element signature="e#1194#1239#0" />
+            <element signature="e#1400#1424#0" />
+            <element signature="e#1447#1471#0" />
+            <element signature="e#2453#2589#0" />
+            <element signature="e#2472#2524#0" />
+            <element signature="e#2530#2583#0" />
+            <element signature="e#2774#2910#0" />
+            <element signature="e#2793#2845#0" />
+            <element signature="e#2851#2904#0" />
+            <element signature="n#!!block;n#f#0" />
+            <element signature="e#2834#2974#0" />
+            <element signature="e#2853#2905#0" />
+            <element signature="e#2911#2968#0" />
+            <element signature="e#3041#3181#0" />
+            <element signature="e#3060#3112#0" />
+            <element signature="e#3118#3175#0" />
+            <element signature="n#!!block;n#insertUsers#0" />
+            <element signature="e#3109#3249#0" />
+            <element signature="e#3128#3180#0" />
+            <element signature="e#3186#3243#0" />
+            <element signature="n#!!block;n#selectUsers#0" />
+            <element signature="e#3617#3742#0" />
+            <element signature="e#3113#3137#0" />
+            <element signature="e#3168#3192#0" />
+            <element signature="n#!!block;n#dropDb#1" />
+            <element signature="e#3973#4094#0" />
+            <element signature="e#3992#4033#0" />
+            <element signature="e#4039#4088#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
