@@ -112,7 +112,7 @@ function selectUsers() {
 }
 
 function dropDb() {
-    con.query("DROP DATABASE mydb", function (err) {
+    con.query("DROP DATABASE if exists mydb", function (err) {
         if (err) {
             console.log(err);
         } else {
