@@ -1,0 +1,14 @@
+{
+    "id": "asdf1234",
+    "type": "new-bet",
+    "data": {
+      "name": "nextGoal", 
+      "text": "Wer schiesst das nächste Tor für YB?",
+      "answers": [
+        {
+          "answerType": "player",
+          "team": "home"
+        }
+      ]
+    }
+  }
