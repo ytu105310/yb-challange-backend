@@ -23,11 +23,14 @@
     "express": "^4.17.1",
     "file-system": "^2.2.2",
     "jslint": "^0.12.1",
+    "mysql": "^2.17.1",
+    "node-rest-client": "^3.1.0",
     "request": "^2.88.0",
     "ws": "^7.2.0",
     "xhr": "^2.5.0",
     "xml-js": "^1.6.11",
-    "xmlhttprequest": "^1.8.0"
-    "mysql": "^2.17.1"
+    "xml2json": "^0.11.2",
+    "xmlhttprequest": "^1.8.0",
+    "xml2js": "latest"
   }
 }
